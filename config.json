@@ -1,0 +1,13 @@
+{
+    "server_host": "127.0.0.1",
+    "server_port": 5000,
+    "admin_key": "admin123",
+    "client_api_key": "client123",
+    "admin_api_key": "your_admin_secret_key",
+    "database_file": "lab_health.db",
+    "report_interval_seconds": 5,
+    "thresholds": {
+    "cpu_percent": 80,
+    "ram_percent": 80,
+    "disk_percent": 90
+}}
